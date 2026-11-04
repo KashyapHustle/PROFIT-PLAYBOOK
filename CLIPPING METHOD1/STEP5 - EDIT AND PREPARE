@@ -1,0 +1,82 @@
+##EDIT AND PREPARE CLIPS 
+After downloading the source videos, the next task is to identify interesting moments and convert them into engaging short-form videos.
+There are two approaches to finding interesting moments and two approaches to editing.
+
+
+Finding interesting moments - 
+Method 1: Manual identification
+Open the downloaded source video.
+Watch the video and look for engaging conversations, funny reactions, controversial opinions, educational information or storytelling.
+Note down the timestamps of interesting moments.
+Select moments that can work independently as short-form videos.
+Extract the selected portions using your video editor.
+
+
+Method 2: AI-assisted identification using Gemini
+Copy the YouTube video URL.
+Open Gemini.
+Paste the YouTube link.
+Ask Gemini to identify the most interesting and engaging moments.
+Request timestamps for each suggested moment.
+Review the suggested timestamps yourself.
+Select the best moments for clipping.
+
+
+Prompt - 
+Analyze this YouTube video and identify the best moments for short-form content (Instagram Reels, YouTube Shorts and TikTok).
+
+Find moments that contain:
+
+- Interesting conversations
+- Funny or entertaining moments
+- Controversial opinions
+- Surprising statements
+- Valuable information
+- Strong emotional reactions
+- Engaging storytelling
+
+For each selected moment, provide:
+
+1. Start timestamp
+2. End timestamp
+3. A brief description
+4. Why the moment could engage viewers
+5. A suggested opening hook
+
+Prioritize moments that can work independently without requiring viewers to watch the entire original video.
+
+
+Editing the clips - 
+Method 1: Manual editing
+CapCut – Beginner-friendly editing.
+DaVinci Resolve – Advanced editing.
+Adobe Premiere Pro – Professional editing.
+VN Video Editor – Mobile editing.
+
+Typical editing tasks:
+Extract the selected portion.
+Convert the footage into a 9:16 vertical format.
+Adjust the framing and cropping.
+Add animated captions and subtitles.
+Highlight important keywords.
+Add zoom effects and jump cuts.
+Improve audio quality.
+Add background music if permitted.
+Export the final clip.
+
+
+Method 2: Automated clipping tools
+opusclip
+vizard AI
+Klap
+
+Typical editing tasks ( done by the tool ): 
+Detecting potentially engaging moments.
+Extracting short clips from long videos.
+Automatically generating captions.
+Converting landscape videos into vertical videos.
+Reframing speakers.
+Adding templates and transitions.
+
+Simply take the clips extracted from the source video, either manually or with the help of AI, and edit them. 
+Make sure to follow all the editing specifications mentioned in the campaign's rules document.
